@@ -1,0 +1,18 @@
+
+h1{
+    color: #ff0080;
+    /*border: solid;*/
+}
+*{
+    border:solid;
+}
+.header{
+    background-color:pink;
+    display: flex;
+    justify-content: space-evenly;
+}
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
